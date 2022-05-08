@@ -25,6 +25,11 @@ deno test
 import { Damm } from "https://js.sabae.cc/Damm.js";
 ```
 
+## sample app
+
+[Damm.js test](https://code4fukui.github.io/Damm.js/)
+
 ## related
 
-[Luhn.js](https://github.com/code4fukui/Luhn.js)
+- [Verhoeff.js](https://github.com/code4fukui/Verhoeff.js)
+- [Luhn.js](https://github.com/code4fukui/Luhn.js)
