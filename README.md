@@ -12,8 +12,19 @@ console.log(Damm.check(5724)); // true
 console.log(Damm.addCheckDigit(572)); // 5724
 ```
 
+
 ## test
 
 ```
 deno test
 ```
+
+## shortcut
+
+```js
+import { Damm } from "https://js.sabae.cc/Damm.js";
+```
+
+## related
+
+[Luhn.js](https://github.com/code4fukui/Luhn.js)
