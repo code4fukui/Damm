@@ -24,7 +24,7 @@ deno test
 
 ### サンプルアプリ
 
-[Damm.js test](https://code4fukui.github.io/Damm.js/)
+[Damm.js test](https://github.com/code4fukui/Damm)
 
 ## 関連
 
